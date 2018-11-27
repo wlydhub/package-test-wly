@@ -1,0 +1,19 @@
+{
+  "name": "package-test-wly",
+  "version": "1.0.0",
+  "description": "this is test package from wly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlydhub/package-test-wly.git"
+  },
+  "author": "wly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlydhub/package-test-wly/issues"
+  },
+  "homepage": "https://github.com/wlydhub/package-test-wly#readme"
+}
